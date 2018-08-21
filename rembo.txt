@@ -5,6 +5,8 @@ pink
 yellow
 indigo
 white
+stone
+paper
 unicorn
 orange
 blue red
