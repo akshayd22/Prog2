@@ -2,6 +2,8 @@ the rainboe
 green
 purple
 pink
+yellow
+white
 orange
 blue red
 this are the colors f rainbow.
