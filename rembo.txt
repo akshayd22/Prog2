@@ -1,5 +1,6 @@
 the rainboe
 green
+purple
 pink
 orange
 blue red
